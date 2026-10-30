@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# Local research datasets
+Datasets/
+
+# Generated figures and exports
+outputs/
+
+# macOS files
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
